@@ -1,7 +1,7 @@
 set nocompatible
 
 " Initialize Pathogen
-runtime bundle/vim-pathogen/autoload/pathogen.vim
+runtime bundle/pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 
 " Enable syntax highlighting
