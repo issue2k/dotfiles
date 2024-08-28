@@ -1,0 +1,3 @@
+split-window -h
+split-window -v
+select-pane -t 0
